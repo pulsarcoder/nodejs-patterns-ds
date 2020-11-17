@@ -1,0 +1,19 @@
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO Requests: 0 (0%), requests per second: 0, mean latency: 0 ms
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO 
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO Target URL:          http://localhost:8000
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO Max requests:        300
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO Concurrency level:   100
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO Agent:               none
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO 
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO Completed requests:  300
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO Total errors:        0
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO Total time:          0.279505299 s
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO Requests per second: 1073
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO Mean latency:        74.5 ms
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO 
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO Percentage of the requests served within a certain time
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO   50%      75 ms
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO   90%      94 ms
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO   95%      106 ms
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO   99%      114 ms
+[Wed Nov 11 2020 15:00:38 GMT+0530 (India Standard Time)] INFO  100%      115 ms (longest request)
