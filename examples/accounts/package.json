@@ -1,0 +1,21 @@
+{
+  "name": "accounts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/register": "^7.12.1",
+    "chai": "^4.2.0",
+    "chai-exclude": "^2.0.2",
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "npx mocha \"src/**/*.test.js\" --recursive --require @babel/register --file ./mochaSetup.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
